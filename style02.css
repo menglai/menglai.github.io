@@ -1,0 +1,31 @@
+/*Imports font from https://fonts.google.com/*/
+
+.my-body{
+    background-color: #FFFFFF*;
+    border-color: #aaa*;
+    width: 600px;
+    margin: 10px 0px center;
+    padding: 1rem;
+    box-shadow: 5px 5px 5px #aaa*;
+}
+
+.my-container{
+    border: 1px solid #aaa;
+    background-color: white;
+    max-width: 600px;
+    margin: 10px auto;
+    padding: 1rem;
+    box-shadow: 5px 5px 5px #aaa;
+}
+
+.my-highlight{
+color: orangered;
+text-decoration: overline;
+font-size: 4rem;
+}
+
+.my-hr{
+width: 20%;
+border: 10px solid orangered;
+margin-left: 0;
+}
