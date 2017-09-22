@@ -1,0 +1,24 @@
+.my-photo2 {
+    background-image: url(FullSizeRender03.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 20% 100%;
+}
+.my-thick-hr {
+    width: 70%;
+    border: 6px solid #651621;
+    margin-left: 0;
+}
+
+.my-container {
+    padding: 40px;
+    background-color: rgba(131, 138, 146, 0.68);
+    max-width: 386px;
+    margin: 40px;
+}
+
+
+
+
+
